@@ -21,6 +21,8 @@ body {
 
   display: flex;
   flex-flow: column;
+
+  border-bottom: medium solid SandyBrown;
 }
 
 .git-graph > h1 {
